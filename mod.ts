@@ -22,7 +22,7 @@ export async function init(): Promise<void> {
 /**
  * Clean HTML with a conservative set of defaults.
  *
- *  * [tags](https://docs.rs/ammonia/3.1.2/ammonia/https://docs.rs/ammonia/3.1.2/ammonia/struct.Builder.html#defaults)
+ *  * [tags](https://docs.rs/ammonia/3.1.2/ammonia/struct.Builder.html#defaults)
  *  * [attributes on specific tags](https://docs.rs/ammonia/3.1.2/ammonia/struct.Builder.html#defaults-1)
  *  * [attributes on all tags](https://docs.rs/ammonia/3.1.2/ammonia/struct.Builder.html#defaults-2)
  *  * [url schemes](https://docs.rs/ammonia/3.1.2/ammonia/struct.Builder.html#defaults-3)
